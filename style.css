@@ -1,11 +1,9 @@
 div a {
     background-color:#33FF49;
 }
-
 a > h1 {
     background-color:#6EFF33;
 }
-
 a + a{
     background-color:aqua;
 }
