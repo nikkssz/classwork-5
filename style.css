@@ -1,1 +1,21 @@
+div a {
+    background-color:#33FF49;
+}
 
+a > h1 {
+    background-color:#6EFF33;
+}
+
+a + a{
+    background-color:aqua;
+}
+.nav-bar{
+    background-color:#DB33FF;
+}
+.content-footer{
+    background-color:#FFD133;
+}
+.x1{
+    text-align:center;
+    color:#D7FF33;
+}
